@@ -538,8 +538,8 @@
 
 .div-block-8 {
   padding-bottom: 10px;
-  background-image: -webkit-gradient(linear, left bottom, left top, from(#000), to(transparent)), url("../images/5e32f5727063a39d3dfd1f17_fon.jpg");
-  background-image: linear-gradient(0deg, #000, transparent), url("../images/5e32f5727063a39d3dfd1f17_fon.jpg");
+  background-image: -webkit-gradient(linear, left bottom, left top, from(#000), to(transparent)), url("https://uploads-ssl.webflow.com/5e3d7d46e239864e0f86255b/5e3d845627189e01b4bdb25f_5e32f5727063a39d3dfd1f17_fon.jpg");
+  background-image: linear-gradient(0deg, #000, transparent), url("https://uploads-ssl.webflow.com/5e3d7d46e239864e0f86255b/5e3d845627189e01b4bdb25f_5e32f5727063a39d3dfd1f17_fon.jpg");
   background-position: 0px 0px, 0px 0px;
   background-size: auto, cover;
 }
